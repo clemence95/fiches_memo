@@ -7,7 +7,8 @@ Ce répertoire contient des mini cartes mémoire que je crée au fil de mon appr
 ## 📂 Structure du dossier
 
 - `fiche_styles_nommage/` → Mini carte mémoire sur les styles de nommage (camelCase, snake_case, etc.)
-- ![Mini Carte Styles de Nommage](fiche_styles_nommage/styles_nommage.png)
+- ![Guide des styles de nommage](fiches_memo/fiche_styles_nommage/guide_nommage.png)
+
 
 ## 📌 Objectif
 
